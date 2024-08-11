@@ -40,6 +40,7 @@ const Project = () => {
             <div className="container">
                 <h2 className="mb-4">Projects</h2>
                 <div className="row">
+                    {/* Using map function */}
                     {projects.map((project, index) => (
                         <div className="col-md-4 mb-4" key={index}>
                             <div className="card">

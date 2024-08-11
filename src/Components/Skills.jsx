@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+
 
 const Skills = () => {
     return (
@@ -6,7 +7,7 @@ const Skills = () => {
             <div className="container">
                 <h2 className="mb-4">Skills</h2>
                 <div className="row">
-                    <div className="col-md-6">
+                    <div className="col-md-6 skills-section">
                         <h4>Programming Languages</h4>
                         <ul className="list-group mb-4">
                             <li className="list-group-item">
@@ -30,7 +31,7 @@ const Skills = () => {
                         </ul>
                     </div>
 
-                    <div className="col-md-6">
+                    <div className="col-md-6 skills-section">
                         <h4>Web Development</h4>
                         <ul className="list-group mb-4">
                             <li className="list-group-item">
@@ -59,4 +60,4 @@ const Skills = () => {
     );
 }
 
-export default Skills
+export default Skills;

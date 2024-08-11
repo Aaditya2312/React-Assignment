@@ -8,6 +8,7 @@ const About = () => {
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-md-2 text-center">
+                        {/* Using framer motion animation */}
                         <motion.img
                             src={ProfileImg}
                             alt="Profile"
