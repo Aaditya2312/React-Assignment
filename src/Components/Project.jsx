@@ -36,7 +36,7 @@ const Project = () => {
     };
 
     return (
-        <section id="projects" className="py-5">
+        <section id="projects" className="py-5 bg-light bg-gradient">
             <div className="container">
                 <h2 className="mb-4">Projects</h2>
                 <div className="row">

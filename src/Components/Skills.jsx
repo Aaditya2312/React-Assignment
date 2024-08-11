@@ -12,19 +12,19 @@ const Skills = () => {
                             <li className="list-group-item">
                                 <strong>JavaScript</strong>
                                 <div className="progress">
-                                    <div className="progress-bar bg-success" role="progressbar" style={{ width: '90%' }} aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">90%</div>
+                                    <div className="progress-bar bg-success" role="progressbar" style={{ width: '85%' }} aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">85%</div>
                                 </div>
                             </li>
                             <li className="list-group-item">
                                 <strong>Python</strong>
                                 <div className="progress">
-                                    <div className="progress-bar bg-info" role="progressbar" style={{ width: '80%' }} aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
+                                    <div className="progress-bar bg-info" role="progressbar" style={{ width: '70%' }} aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">70%</div>
                                 </div>
                             </li>
                             <li className="list-group-item">
                                 <strong>Java</strong>
                                 <div className="progress">
-                                    <div className="progress-bar bg-warning" role="progressbar" style={{ width: '70%' }} aria-valuenow="70" aria-valuemin="0" aria-valuemax="100">70%</div>
+                                    <div className="progress-bar bg-warning" role="progressbar" style={{ width: '80%' }} aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
                                 </div>
                             </li>
                         </ul>
@@ -36,13 +36,13 @@ const Skills = () => {
                             <li className="list-group-item">
                                 <strong>HTML & CSS</strong>
                                 <div className="progress">
-                                    <div className="progress-bar bg-danger" role="progressbar" style={{ width: '95%' }} aria-valuenow="95" aria-valuemin="0" aria-valuemax="100">95%</div>
+                                    <div className="progress-bar bg-danger" role="progressbar" style={{ width: '90%' }} aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">90%</div>
                                 </div>
                             </li>
                             <li className="list-group-item">
                                 <strong>React</strong>
                                 <div className="progress">
-                                    <div className="progress-bar bg-primary" role="progressbar" style={{ width: '85%' }} aria-valuenow="85" aria-valuemin="0" aria-valuemax="100">85%</div>
+                                    <div className="progress-bar bg-primary" role="progressbar" style={{ width: '80%' }} aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
                                 </div>
                             </li>
                             <li className="list-group-item">

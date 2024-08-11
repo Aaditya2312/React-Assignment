@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 
 const About = () => {
     return (
-        <section id="about" className="py-5 bg-light">
+        <section id="about" className="py-5 bg-light text-dark">
             <div className="container">
                 <div className="row align-items-center">
                     <div className="col-md-2 text-center">

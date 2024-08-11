@@ -8,7 +8,7 @@ const Education = () => {
     }, []);
 
     return (
-        <section id="education" className="py-5">
+        <section id="education" className="py-5 bg-light bg-gradient">
             <div className="container ml-9">
                 <h2 className="mb-4" data-aos="fade-up">Education</h2>
                 <div className="row">
